@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/am/tag/getting-started/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/am/" rel="alternate" type="text/html" />
-  <updated>2020-06-11T16:34:52-07:00</updated>
+  <updated>2020-06-11T18:22:35-07:00</updated>
   <id>http://localhost:4000/am/tag/getting-started/feed.xml</id>
 
   
@@ -33,11 +33,11 @@
   
     <entry>
       <title type="html">Sample Card</title>
-      <link href="http://localhost:4000/am/advanced-markdown" rel="alternate" type="text/html" title="Sample Card" />
+      <link href="http://localhost:4000/am/sample" rel="alternate" type="text/html" title="Sample Card" />
       <published>2017-07-26T22:00:00-07:00</published>
       <updated>2017-07-26T22:00:00-07:00</updated>
-      <id>http://localhost:4000/am/advanced-markdown</id>
-      <content type="html" xml:base="http://localhost:4000/am/advanced-markdown">&lt;p&gt;Sample Text&lt;/p&gt;</content>
+      <id>http://localhost:4000/am/sample</id>
+      <content type="html" xml:base="http://localhost:4000/am/sample">&lt;p&gt;Sample Text&lt;/p&gt;</content>
 
       
       
