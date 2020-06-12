@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="http://localhost:4000/am/tag/welcome/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/am/" rel="alternate" type="text/html" />
+  <updated>2020-06-11T16:34:52-07:00</updated>
+  <id>http://localhost:4000/am/tag/welcome/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">AM | </title>
+  
+
+  
+    <subtitle>A Way to Keep The Community In Touch</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Welcome!</title>
+      <link href="http://localhost:4000/am/welcome" rel="alternate" type="text/html" title="Welcome!" />
+      <published>2020-06-11T03:00:00-07:00</published>
+      <updated>2020-06-11T03:00:00-07:00</updated>
+      <id>http://localhost:4000/am/welcome</id>
+      <content type="html" xml:base="http://localhost:4000/am/welcome">&lt;p&gt;Salutations!&lt;/p&gt;
+
+&lt;p&gt; This webpage will have a number of things, including information from various committees around San Ramon, various issues, hot topics, and more. Hopefully, as we gather more people to this website, we will be able to add more things, so that everyone in the community can be informed about what is happening.&lt;/p&gt;
+
+&lt;p&gt;This website was created as part of an initiative by Aparna Madireddi. You can support her campaign &lt;a href = &quot;http://amworksforyou.com&quot;&gt;here&lt;/a&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Anirudh</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="welcome!" />
+      
+
+      
+        <summary type="html">Salutations!</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
